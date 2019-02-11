@@ -1,9 +1,9 @@
-#include "pch.h"
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <string>
 #include <map>
+using namespace std;
 
 int main()
 {
